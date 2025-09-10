@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Tianyi Zhang`
+- **CCID:** `tzhang15`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+TAs in the lab section
 
 ## Verbal Collaboration
 
